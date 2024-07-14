@@ -72,8 +72,6 @@ Start the Client
 ![](https://github.com/shreyaskar-1/Mern-Chat-App/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/shreyaskar-1/Mern-Chat-App/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/shreyaskar-1/Mern-Chat-App/blob/master/screenshots/profile.PNG)
 ## Made By
 
 - [@shreyaskar-1](https://github.com/shreyaskar-1)
